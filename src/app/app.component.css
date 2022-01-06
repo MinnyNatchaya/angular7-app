@@ -1,0 +1,59 @@
+/* button {
+  background-color: #2b3bcf;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+} */
+
+/* a:link,
+a:visited {
+  background-color: #848686;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  background-color: #bd9696;
+} */
+
+/* input[type="text"],
+input[type="password"] {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #b3a9a9;
+  box-sizing: border-box;
+}
+input[type="submit"] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #b3a9a9;
+  box-sizing: border-box;
+} */
+
+/* div {
+  margin: 0 auto;
+  text-align: center;
+  width: 200px;
+}
+.rotate {
+  width: 100px;
+  height: 100px;
+  border: solid 1px red;
+} */
+
+mat-drawer {
+  width: 200px;
+}
+.example-container {
+  height: 100vh;
+}
